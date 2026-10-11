@@ -1,0 +1,6 @@
+{
+  "name": "Crescent College",
+  "description": "Comprehensive School Management System for The Crescent School and Degree College Mirali NWTD, featuring attendance monitoring, academic grades, teacher profiles, automated exam and fee alerts, online admissions, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
